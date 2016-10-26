@@ -1,0 +1,3 @@
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/Amel3110/Supersnake2/ansible.git
