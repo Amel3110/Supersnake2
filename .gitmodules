@@ -1,3 +1,3 @@
 [submodule "ansible"]
-	path = Supersnake2/ansible
+	path = ansible
 	url = ./ansible
